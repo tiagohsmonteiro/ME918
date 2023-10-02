@@ -1,0 +1,11 @@
+Package: prova217517
+Type: Package
+Title: Respostas da Prova 1 de ME918 2s2023
+Version: 0.1.0
+Author: Tiago Henrique Silva Monteiro
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Possui 2 funções, uma chamada de resposta(), que retorna as respostas referentes à Função 1 do enunciado, e outra chamada df_variavel_2(), retornando um data frame com uma variavel específica elevada ao quadrado.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
