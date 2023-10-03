@@ -1,0 +1,5 @@
+nome_funcao_1: resposta
+nome_funcao_2: df_variavel_2
+arquivo_entrada: penguins.json
+arquivo_saida: saida_penguins
+nome_coluna: bill_length_mm
